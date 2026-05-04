@@ -1,0 +1,114 @@
+segments:
+  - id: s01
+    en: "She teaches AI to think."
+    cn: "她教AI思考。"
+    rate: "-10%"
+    video_start: 0.30
+
+  - id: s02
+    en: "This is Yao Fu."
+    cn: "这是符瑶。"
+    rate: "-5%"
+    video_start: 3.50
+
+  - id: s02b
+    en: "Most engineers write answers. She writes the questions."
+    cn: "大多数工程师写答案，她写问题。"
+    rate: "-5%"
+    video_start: 5.50
+
+  - id: s03
+    en: "Every day, she tests where AI fails — on earnings, on risk, on reasoning."
+    cn: "每天，她测试AI在哪里失败——在收益、风险、推理上。"
+    rate: "+0%"
+    video_start: 9.20
+
+  - id: s04a
+    en: "Faster than her."
+    cn: "比她更快。"
+    rate: "+0%"
+    video_start: 15.20
+
+  - id: s04b
+    en: "In some ways, smarter."
+    cn: "在某些方面，更聪明。"
+    rate: "+0%"
+    video_start: 17.00
+
+  - id: s05
+    en: "But one day, the AI asked her something she couldn't answer."
+    cn: "但有一天，AI问了她一个她无法回答的问题。"
+    rate: "-15%"
+    video_start: 20.50
+
+  - id: s05b
+    en: "It asked: Why does beauty matter to you?"
+    cn: "它问：美对你来说为什么重要？"
+    rate: "-15%"
+    video_start: 25.40
+
+  - id: s06a
+    en: "She showed it a sunset. It described the wavelengths perfectly."
+    cn: "她给它看了一场日落，它完美地描述了波长。"
+    rate: "-10%"
+    video_start: 29.00
+
+  - id: s06b
+    en: "But it couldn't tell her why it was beautiful."
+    cn: "但它无法告诉她为什么它是美的。"
+    rate: "-10%"
+    video_start: 34.00
+
+  - id: s07
+    en: "That's when she understood. What makes us human isn't what we know."
+    cn: "就在那时她明白了。让我们成为人的，不是我们知道什么。"
+    rate: "-5%"
+    video_start: 38.30
+
+  - id: s07b
+    en: "The AI could calculate. It could optimize. It could predict."
+    cn: "AI能计算，能优化，能预测。"
+    rate: "-5%"
+    video_start: 43.50
+
+  - id: s08
+    en: "It's what we choose to care about."
+    cn: "而是我们选择在乎什么。"
+    rate: "-5%"
+    video_start: 49.00
+
+  - id: s09
+    en: "She teaches AI to think. And it's teaching her what it means to be human."
+    cn: "她教AI思考，而它正在教她什么是人。"
+    rate: "-10%"
+    video_start: 51.50
+
+scenes:
+  - id: 1
+    name: opening
+    start: 0.0
+    end: 3.0
+  - id: 2
+    name: intro
+    start: 3.0
+    end: 8.0
+  - id: 3
+    name: montage
+    start: 8.0
+    end: 20.0
+  - id: 4
+    name: turning
+    start: 20.0
+    end: 28.0
+  - id: 5
+    name: sunset
+    start: 28.0
+    end: 38.0
+  - id: 6
+    name: understand
+    start: 38.0
+    end: 50.0
+  - id: 7
+    name: closing
+    start: 50.0
+    end: 60.0

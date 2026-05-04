@@ -1,0 +1,46 @@
+# 渲染产物
+media/
+output/
+audio/*.mp3
+audio/*.vtt
+audio/*.wav
+audio/narration_aligned.mp3
+audio/mixed_audio.mp3
+audio/bgm_trimmed.mp3
+character/*.svg
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+venv/
+
+# 个人素材（不入库）
+本人照片*
+*.m4p
+voice_samples/
+简历.md
+岗位介绍.txt
+当前实习的核心工作成果.md
+目前工作流.md
+TASK.md
+
+# OS
+.DS_Store
+*.swp
+
+# IDE
+.idea/
+.vscode/
+
+# Claude Code internal
+.claude/
+
+# Docker
+manimgl_src/
+
+# 大型音频素材
+*.m4p
+Midnight Conveyor.mp3
+06\ I\ Had\ This\ Thing*.m4p

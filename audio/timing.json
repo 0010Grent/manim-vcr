@@ -1,0 +1,147 @@
+{
+  "segments": [
+    {
+      "id": "s01",
+      "text": "She teaches AI to think.",
+      "rate": "-10%",
+      "duration": 2.16,
+      "video_start": 0.3
+    },
+    {
+      "id": "s02",
+      "text": "This is Yao Fu.",
+      "rate": "-5%",
+      "duration": 1.44,
+      "video_start": 3.5
+    },
+    {
+      "id": "s02b",
+      "text": "Most engineers write answers. She writes the questions.",
+      "rate": "-5%",
+      "duration": 3.696,
+      "video_start": 5.5
+    },
+    {
+      "id": "s03",
+      "text": "Every day, she tests where AI fails \u2014 on earnings, on risk, on reasoning.",
+      "rate": "+0%",
+      "duration": 5.856,
+      "video_start": 9.2
+    },
+    {
+      "id": "s04a",
+      "text": "Faster than her.",
+      "rate": "+0%",
+      "duration": 1.224,
+      "video_start": 15.2
+    },
+    {
+      "id": "s04b",
+      "text": "In some ways, smarter.",
+      "rate": "+0%",
+      "duration": 1.776,
+      "video_start": 17.0
+    },
+    {
+      "id": "s05",
+      "text": "But one day, the AI asked her something she couldn't answer.",
+      "rate": "-15%",
+      "duration": 4.32,
+      "video_start": 20.5
+    },
+    {
+      "id": "s05b",
+      "text": "It asked: Why does beauty matter to you?",
+      "rate": "-15%",
+      "duration": 3.024,
+      "video_start": 25.4
+    },
+    {
+      "id": "s06a",
+      "text": "She showed it a sunset. It described the wavelengths perfectly.",
+      "rate": "-10%",
+      "duration": 4.104,
+      "video_start": 29.0
+    },
+    {
+      "id": "s06b",
+      "text": "But it couldn't tell her why it was beautiful.",
+      "rate": "-10%",
+      "duration": 2.64,
+      "video_start": 34.0
+    },
+    {
+      "id": "s07",
+      "text": "That's when she understood. What makes us human isn't what we know.",
+      "rate": "-5%",
+      "duration": 3.816,
+      "video_start": 38.3
+    },
+    {
+      "id": "s07b",
+      "text": "The AI could calculate. It could optimize. It could predict.",
+      "rate": "-5%",
+      "duration": 4.392,
+      "video_start": 43.5
+    },
+    {
+      "id": "s08",
+      "text": "It's what we choose to care about.",
+      "rate": "-5%",
+      "duration": 1.872,
+      "video_start": 49.0
+    },
+    {
+      "id": "s09",
+      "text": "She teaches AI to think. And it's teaching her what it means to be human.",
+      "rate": "-10%",
+      "duration": 4.944,
+      "video_start": 51.5
+    }
+  ],
+  "scenes": [
+    {
+      "id": 1,
+      "name": "opening",
+      "start": 0.0,
+      "end": 3.0
+    },
+    {
+      "id": 2,
+      "name": "intro",
+      "start": 3.0,
+      "end": 8.0
+    },
+    {
+      "id": 3,
+      "name": "montage",
+      "start": 8.0,
+      "end": 20.0
+    },
+    {
+      "id": 4,
+      "name": "turning",
+      "start": 20.0,
+      "end": 28.0
+    },
+    {
+      "id": 5,
+      "name": "sunset",
+      "start": 28.0,
+      "end": 38.0
+    },
+    {
+      "id": 6,
+      "name": "understand",
+      "start": 38.0,
+      "end": 50.0
+    },
+    {
+      "id": 7,
+      "name": "closing",
+      "start": 50.0,
+      "end": 60.0
+    }
+  ],
+  "total_narration": 45.264
+}

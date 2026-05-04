@@ -1,0 +1,24 @@
+skin: "#FCDEC0"
+skin_shadow: "#EABC98"
+skin_highlight: "#FFF0E0"
+hair: "#1C1C1C"
+hair_highlight: "#3A3A3A"
+hair_edge: "#4A4A4A"
+eye_dark: "#1A0E00"
+eye_white: "#FFFFFF"
+eye_iris: "#3D2B10"
+glasses_frame: "#C09898"
+lip: "#D4908A"
+lip_line: "#C07878"
+shirt: "#A8D0E0"
+shirt_light: "#C0DEE8"
+shirt_dark: "#88B8CC"
+collar_trim: "#4A6A6A"
+blush: "#F0B0A0"
+
+expressions:
+  - front
+  - thinking
+  - confident
+  - side_left
+  - side_right

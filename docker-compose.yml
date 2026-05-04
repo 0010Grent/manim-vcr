@@ -1,0 +1,8 @@
+services:
+  manim:
+    build: .
+    image: 0010grent/manim-vcr:latest
+    volumes:
+      - .:/workspace
+    environment:
+      - DISPLAY=:99

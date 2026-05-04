@@ -1,0 +1,25 @@
+video:
+  width: 1920
+  height: 1080
+  fps: 60
+  total_duration_s: 62
+  quality: production_quality  # manim -q flag alias
+
+audio:
+  tts_voice: "en-US-AndrewNeural"
+  bgm_volume_db: -11
+  narration_volume_db: 0
+  bgm_fade_in_ms: 2000
+  bgm_fade_out_ms: 3000
+
+theme:
+  bg_dark: "#0a0e27"
+  tech_blue: "#4fc3f7"
+  warm_gold: "#ffd54f"
+  sunset_orange: "#ff8a65"
+  sunset_purple: "#ce93d8"
+  en_font: "Helvetica Neue"
+  cn_font: "PingFang SC"
+  en_size: 32
+  cn_size: 22
+  subtitle_buff: 0.7

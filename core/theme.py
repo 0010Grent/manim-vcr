@@ -1,0 +1,21 @@
+from manim import *
+
+BG_DARK = "#0a0e27"
+TECH_BLUE = "#4fc3f7"
+WARM_GOLD = "#ffd54f"
+SUNSET_ORANGE = "#ff8a65"
+SUNSET_PURPLE = "#ce93d8"
+TEXT_WHITE = WHITE
+TEXT_DIM = GREY_B
+
+EN_FONT = "Helvetica Neue"
+CN_FONT = "PingFang SC"
+
+EN_SIZE = 32
+CN_SIZE = 22
+TITLE_SIZE = 48
+
+FRAME_WIDTH = 14.22
+FRAME_HEIGHT = 8.0
+
+SUBTITLE_BUFF = 0.7

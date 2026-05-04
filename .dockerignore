@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+media/
+output/
+audio/*.mp3
+audio/*.vtt
+audio/*.wav
+character/*.svg
+manimgl_src/
+.DS_Store
