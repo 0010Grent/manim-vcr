@@ -16,7 +16,7 @@
 
 ## Demo
 
-https://github.com/0010Grent/manim-vcr/raw/main/showcase/demo.mp4
+https://github.com/user-attachments/assets/3b7935ea-c418-4053-812f-01e47596a821
 
 > *60-second video resume: AI-themed personal showcase with programmatic SVG character and bilingual subtitles.*
 
