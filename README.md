@@ -94,9 +94,13 @@ Output: `output/VCR_Final.mp4`
 
 ### Docker (Recommended for clean environments)
 
+A pre-built image is available on Docker Hub — no local build needed:
+
 ```bash
 docker compose run --rm manim make all
 ```
+
+> The image `thisis0010grent/manim-vcr:latest` will be pulled automatically on first run.
 
 ---
 
